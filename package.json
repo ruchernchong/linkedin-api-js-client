@@ -1,5 +1,5 @@
 {
-  "name": "linkedin-api-client",
+  "name": "@ruchernchong/linkedin-api-client",
   "version": "0.3.0",
   "description": "Official JavaScript client library for LinkedIn APIs",
   "main": "dist/lib/index.js",
